@@ -1,4 +1,4 @@
-# L'Épicurien Restaurant 
+# Static L'Épicurien Restaurant Website
 Welcome to the L'Épicurien Restaurant Website Showcase, a static website project developed with React.js to highlight my front-end development skills.
 
 ## Live Demo
