@@ -4,7 +4,7 @@ Welcome to the L'Épicurien Restaurant Website Showcase, a static website projec
 ## Live Demo
 ![L'Épicurien Restaurant Static Website](public/ScreenShot/Restaurant.png)
 
-Explore the live demo [here](https://nexgen-cybershield.surge.sh/).
+Explore the live demo [here](https://l-epicurean-restaurant.surge.sh/).
 
 ## Technologies Used
 - React.js
@@ -20,8 +20,8 @@ Explore the live demo [here](https://nexgen-cybershield.surge.sh/).
 Feel free to explore the website and navigate through its pages to get a glimpse of the L'Épicurien Restaurant Website. If you have any feedback or questions, don't hesitate to [contact me](mailto:shabdulmoiz96@gmail.com).
 
 ## How to Run Locally
-1. Clone this repository: `git clone https://github.com/AbdulMoiz961/Static-Restaurant_Site.git`
-2. Navigate to the project directory: `cd Static-Restaurant_Site`
+1. Clone this repository: `git clone https://github.com/AbdulMoiz961/Static-Restaurant_Website.git`
+2. Navigate to the project directory: `cd Static-Restaurant_Website`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
